@@ -115,7 +115,7 @@ sections:
           <strong>— Joseph W.</strong>
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Quality of Earnings
         title_url: lorem-ipsum
         content: >-
           ## Lorem ipsum
