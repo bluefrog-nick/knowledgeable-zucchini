@@ -9,7 +9,7 @@ sections:
     content: ''
     actions: []
   - type: section_content
-    title: Protect Your Investment with Guardian
+    title: Let Our Team Seamlessly Manage Your Acquisition
     section_id: text-img
     image_position: left
     content: >+
