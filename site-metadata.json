@@ -81,7 +81,7 @@
             {
                 "type": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/company/guardian-due-diligence",
+                "url": "https://www.linkedin.com/company/guardian-due-diligence/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
