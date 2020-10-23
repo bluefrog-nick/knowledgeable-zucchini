@@ -43,7 +43,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
   - type: section_content
-    title: A Section Without Image
+    title: Benefits of Working With Guardian
     section_id: text-no-img
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
