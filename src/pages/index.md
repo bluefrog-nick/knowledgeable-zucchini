@@ -51,7 +51,7 @@ sections:
     section_id: expertise-you-can-trust
     image_position: left
     content: |
-      Expertise You Can Trust
+      <h3>Expertise You Can Trust</h3>
       - 10+ years working with deals from $250K to $5M in EBITDA
       - Experience leading private equity firms
       - Focused on providing a deal recommendation, not just a QoE report
