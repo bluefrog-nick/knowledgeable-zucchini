@@ -34,7 +34,9 @@ sections:
   - type: section_cta
     title: Contact Elliott
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Don't lose capital buying a lemon. Instead of leaving your acquisition
+      process to chance, consult with our expert today.
     actions:
       - type: action
         label: Get Started
