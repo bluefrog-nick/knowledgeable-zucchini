@@ -52,7 +52,7 @@ sections:
     subtitle: ''
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Deal Sourcing
         title_url: lorem-ipsum
         content: >-
           ## Lorem ipsum
