@@ -10,7 +10,7 @@ sections:
     actions: []
   - type: section_content
     title: Let Our Team Seamlessly Manage Your Acquisition
-    section_id: text-img
+    section_id: seamlessly-manage
     image_position: left
     content: |
       **Business Address:**<br>
