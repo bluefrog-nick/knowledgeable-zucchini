@@ -2,10 +2,6 @@ li {
     text-align: left;
 }
 
-h3 {
-    font-size: .75rem;
-}
-
 #benefits-of-working {
     margin-bottom: 0;
 }
@@ -15,6 +11,11 @@ h3 {
     width: 30%;
     display: inline-block;
     padding-top: 0;
+}
+
+#expertise-you-can-trust h3,
+#unbeatable-value h3 {
+    font-size: .75rem;
 }
 
 #expertise-you-can-trust {
