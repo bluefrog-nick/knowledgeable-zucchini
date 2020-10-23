@@ -32,7 +32,7 @@ sections:
       dollars.
 
     actions:
-      - label: lorem-ipsum
+      - label: Request a Report
         url: /contact-us
         style: primary
         icon_class: lorem-ipsum
