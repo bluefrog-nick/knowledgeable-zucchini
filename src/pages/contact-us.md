@@ -11,7 +11,6 @@ sections:
   - type: section_content
     title: Protect Your Investment with Guardian
     section_id: text-img
-    image: images/10.jpg
     image_position: left
     content: >+
       When you’re preparing to close a business acquisition, it’s crucial to
