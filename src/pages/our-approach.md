@@ -10,7 +10,7 @@ sections:
     actions: []
   - type: section_content
     title: Providing More Than Just a Quality of Earnings (QoE)
-    section_id: text-img
+    section_id: providing-more
     image: images/10.jpg
     image_position: left
     content: >+
