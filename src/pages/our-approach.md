@@ -10,13 +10,12 @@ sections:
     actions: []
   - type: section_content
     title: Providing More Than Just a Quality of Earnings (QoE)
-    section_id: text-img
+    section_id: providing-more
     image: images/10.jpg
     image_position: left
     content: >+
       With Guardian completing your QoE and due diligence report, you benefit
       from:
-
 
       - A firm operated by two partners who have bought businesses, not just
       CPAs
@@ -32,6 +31,12 @@ sections:
       includes full-service deal advisory that can save you thousands of
       dollars.
 
-    actions: []
+    actions:
+      - label: Request a Report
+        url: /contact-us
+        style: primary
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 ---
