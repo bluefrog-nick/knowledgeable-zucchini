@@ -44,7 +44,7 @@ sections:
         style: primary
   - type: section_content
     title: Benefits of Working With Guardian
-    section_id: text-no-img
+    section_id: benefits-of-working
     content: ''
     actions: []
   - title: ''
