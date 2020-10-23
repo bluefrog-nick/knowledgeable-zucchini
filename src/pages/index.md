@@ -118,14 +118,32 @@ sections:
       - title: Quality of Earnings
         title_url: lorem-ipsum
         content: >-
-          ## Lorem ipsum
+          *Am I Buying a Lemon?*
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <br>
 
-          - Lorem ipsum
+          - We’ll determine what EBITDA you should expect for your first year of
+          ownership
 
-          - dolor sit amet
+          - 10+ years of navigating the ways sellers can manipulate financials
+
+
+          <div class="block-item-cta"><a
+          href="https://guardian-due-diligence-site-f74f0.netlify.app/contact-us/"
+          style="text-align: left;">Request More Info<!-- --> <span
+          class="icon-arrow-right" aria-hidden="true"></span></a></div>
+
+          <br>
+
+
+          <em>"I thought I had my ideal acquisition. But Guardian found that the
+          seller was propping up sales and EBITDA with tricks in inventory and
+          accounts receivable. I walked away and saved 1/2 of my net
+          worth!"</em>
+
+          <br>
+
+          <strong>— Mark D.</strong>
         actions: []
         type: grid_item
     type: section_grid
