@@ -50,7 +50,7 @@ sections:
   - title: ''
     section_id: expertise-you-can-trust
     image_position: left
-    content: "<h3>Expertise You Can Trust</h3>\n<ul>\n\t<li>10+ years working with deals from $250K to $5M in EBITDA</li>\n\t<li>Experience leading private equity firms</li>\n\t<li>Focused on providing a deal recommendation, not just a QoE report</li>\n\t<li>Support throughout the entire acquisition process</li>\n</ul>"
+    content: "<h3>Expertise You Can Trust</h3>\n<ul class=\"benefits-list\">\n\t<li>10+ years working with deals from $250K to $5M in EBITDA</li>\n\t<li>Experience leading private equity firms</li>\n\t<li>Focused on providing a deal recommendation, not just a QoE report</li>\n\t<li>Support throughout the entire acquisition process</li>\n</ul>"
     actions: []
     type: section_content
   - title: ''
