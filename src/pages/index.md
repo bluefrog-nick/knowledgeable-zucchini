@@ -55,7 +55,11 @@ sections:
       - title: Deal Sourcing
         title_url: lorem-ipsum
         content: >-
-          ## Lorem ipsum
+          *Boost your deal flow today!
+
+          <br>
+
+
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
