@@ -22,6 +22,16 @@ li {
     margin-left: 15%;
 }
 
-#seamlessly-manage p {
+#seamlessly-manage * {
     text-align: left;
+}
+
+#benefits-of-working,
+#seamlessly-manage {
+    width: 30%;
+    display: inline-block;
+}
+
+#providing-more p {
+    margin-bottom: 0;
 }
