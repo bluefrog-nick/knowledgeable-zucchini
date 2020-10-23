@@ -48,7 +48,7 @@
             {
                 "type": "action_menu",
                 "label": "Contact",
-                "url": "/docs",
+                "url": "/contact-us",
                 "style": "link",
                 "has_subnav": false
             },
