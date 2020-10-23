@@ -47,7 +47,7 @@ sections:
     section_id: text-no-img
     content: ''
     actions: []
-  - title: lorem-ipsum
+  - title: Acquisition Process Services We Provide
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
