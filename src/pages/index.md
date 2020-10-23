@@ -55,7 +55,7 @@ sections:
       - title: Deal Sourcing
         title_url: lorem-ipsum
         content: >-
-          *Boost your deal flow today!
+          *Boost your deal flow today!*
 
           <br>
 
