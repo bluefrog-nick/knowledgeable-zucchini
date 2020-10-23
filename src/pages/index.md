@@ -49,10 +49,6 @@ sections:
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
-    actions:
-      - type: action
-        label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+    actions: []
 template: advanced
 ---
