@@ -30,11 +30,7 @@ sections:
       the deal, not the details, as we provide an expert layer of protection for
       your investment.
 
-    actions:
-      - type: action
-        label: Get Started
-        url: /docs/getting-started
-        style: secondary
+    actions: []
   - type: section_grid
     title: Sample Layouts
     section_id: features-two-col
