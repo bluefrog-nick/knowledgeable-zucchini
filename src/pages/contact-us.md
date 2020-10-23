@@ -37,18 +37,6 @@ sections:
     section_id: benefits-of-working
     content: ''
     actions: []
-  - title: ''
-    section_id: unbeatable-value
-    image_position: left
-    content: |
-      Unbeatable Value
-      - Reduce purchase price based on adjustments to EBITDA
-      - Find issues in diligence that others may miss
-      - Minimize blown deal fees and wasted time
-      - Capital relationships, if needed
-      - Experts who will ensure you remain on the right track
-    actions: []
-    type: section_content
   - title: Acquisition Process Services We Provide
     section_id: lorem-ipsum
     subtitle: ''
