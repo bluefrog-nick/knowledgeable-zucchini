@@ -12,24 +12,17 @@ sections:
     title: Let Our Team Seamlessly Manage Your Acquisition
     section_id: text-img
     image_position: left
-    content: >+
-      When you’re preparing to close a business acquisition, it’s crucial to
-      work with a partner who can effectively manage the financial, operational,
-      and legal diligence processes to ensure you won't lose your money buying a
-      lemon. At Guardian Due Diligence, we’re dedicated to providing
-      cost-effective, institutional-level quality buyside advisory and due
-      diligence work with a focus on integrity. Our founder, Elliott Holland,
-      was a self-funded searcher for six years prior to starting Guardian, and
-      he puts that experience to work for each client.
+    content: |
+      **Business Address:**<br>
+      Atlanta Office<br>
+      1040 Huff Road Suite 3217<br>
+      Atlanta, GA 30318<br>
 
+      New York City Office<br>
+      205 E 42nd Street, 16th Floor<br>
+      New York, New York 10017<br>
 
-      At Guardian Due Diligence, we support acquisition entrepreneurs looking to
-      execute a business acquisition. We provide institutional-level buyside
-      advisory work and can lead the full deal process or focus strictly on due
-      diligence in a cost-effective manner. This allows our clients to focus on
-      the deal, not the details, as we provide an expert layer of protection for
-      your investment.
-
+      **Phone Number**: <a href="tel:123-456-7890">404-441-2637</a>
     actions: []
   - type: section_content
     title: Benefits of Working With Guardian
