@@ -27,9 +27,13 @@ li {
 }
 
 #benefits-of-working,
-#seamlessly-manage {
+#contact-us {
     width: 30%;
     display: inline-block;
+}
+
+#contact-us {
+    margin-right: 15%;
 }
 
 #providing-more p {
