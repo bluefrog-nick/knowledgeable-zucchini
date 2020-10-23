@@ -66,7 +66,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit-Libris. All rights reserved.",
+        "content": "&copy; Guardian Due Diligence. All rights reserved. ",
         "links": [
             {
                 "type": "action",
@@ -80,27 +80,19 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/company/guardian-due-diligence/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
             },
             {
-                "type": "action",
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Email",
+                "url": "href=\"mailto:eholland@guardianduediligence.com",
                 "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true
+                "icon_class": "",
+                "new_window": false,
+                "type": "action"
             }
         ]
     }
