@@ -59,7 +59,7 @@ sections:
     actions: []
     type: section_content
   - title: ''
-    section_id: lorem-ipsum
+    section_id: unbeatable-value
     image_position: left
     content: |
       Unbeatable Value
