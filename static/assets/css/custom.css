@@ -28,11 +28,15 @@ li {
 
 #seamlessly-manage,
 #contact-us {
-    width: 30%;
     display: inline-block;
 }
 
+#seamlessly-manage {
+    width: 25%;
+}
+
 #contact-us {
+    width: 30%;
     margin-left: 20%;
 }
 
