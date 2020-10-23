@@ -6,11 +6,7 @@ sections:
     section_id: hero
     image: images/5.jpg
     content: ''
-    actions:
-      - type: action
-        label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - type: section_content
     title: A Section With An Image
     section_id: text-img
