@@ -43,3 +43,8 @@ li {
 #providing-more p {
     margin-bottom: 0;
 }
+
+.benefits-list {
+    max-width: fit-content;
+    margin: 0 auto;
+}
