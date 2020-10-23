@@ -32,17 +32,6 @@ sections:
       your investment.
 
     actions: []
-  - type: section_cta
-    title: Contact Elliott
-    section_id: cta
-    subtitle: >-
-      Don't lose capital buying a lemon. Instead of leaving your acquisition
-      process to chance, consult with our expert today.
-    actions:
-      - type: action
-        label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
   - type: section_content
     title: Benefits of Working With Guardian
     section_id: benefits-of-working
