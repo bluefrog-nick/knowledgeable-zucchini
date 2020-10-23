@@ -1,0 +1,17 @@
+li {
+    text-align: left;
+}
+
+#benefits-of-working {
+    margin-bottom: 0;
+}
+
+#expertise-you-can-trust,
+#unbeatable-value {
+    width: 30%;
+    display: inline-block;
+}
+
+#expertise-you-can-trust {
+    margin-left: 20%;
+}
