@@ -32,7 +32,7 @@ sections:
 
     actions: []
   - type: section_cta
-    title: The Title of The Call to Action Block
+    title: Contact Elliott
     section_id: cta
     subtitle: This is an optional description for the call to action block.
     actions:
