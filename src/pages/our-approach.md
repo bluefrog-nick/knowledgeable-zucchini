@@ -14,22 +14,23 @@ sections:
     image: images/10.jpg
     image_position: left
     content: >+
-      When you’re preparing to close a business acquisition, it’s crucial to
-      work with a partner who can effectively manage the financial, operational,
-      and legal diligence processes to ensure you won't lose your money buying a
-      lemon. At Guardian Due Diligence, we’re dedicated to providing
-      cost-effective, institutional-level quality buyside advisory and due
-      diligence work with a focus on integrity. Our founder, Elliott Holland,
-      was a self-funded searcher for six years prior to starting Guardian, and
-      he puts that experience to work for each client.
+      With Guardian completing your QoE and due diligence report, you benefit
+      from:
 
 
-      At Guardian Due Diligence, we support acquisition entrepreneurs looking to
-      execute a business acquisition. We provide institutional-level buyside
-      advisory work and can lead the full deal process or focus strictly on due
-      diligence in a cost-effective manner. This allows our clients to focus on
-      the deal, not the details, as we provide an expert layer of protection for
-      your investment.
+      - A firm operated by two partners who have bought businesses, not just
+      CPAs
+
+      - 10+ years of experience in deals from $2M–$100M
+
+      - Experience with leading private equity firms
+
+      - Reliable support through the duration of the process
+
+
+      Our quality of earnings and due diligence report begins at $10,000 and
+      includes full-service deal advisory that can save you thousands of
+      dollars.
 
     actions: []
 template: advanced
