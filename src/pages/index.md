@@ -88,14 +88,31 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         content: >-
-          ## Lorem ipsum
+          *Find Out if You're Overpaying*
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <br>
 
-          - Lorem ipsum
+          - 10+ years valuing small- and medium-size businesses
 
-          - dolor sit amet
+          - Database of over 1,000 deals to compare to your industry and size
+
+
+          <div class="block-item-cta"><a
+          href="https://guardian-due-diligence-site-f74f0.netlify.app/contact-us/"
+          style="text-align: left;">Request More Info<!-- --> <span
+          class="icon-arrow-right" aria-hidden="true"></span></a></div>
+
+          <br>
+
+
+          <em>"I was so wrong. I started with a 4x valuation multiple. But after
+          I talked to Elliott, he pointed out customer concentration & incorrect
+          add backs that took the valuation below 3x. I saved over $500k on
+          purchase price. Totally worth it"</em>
+
+          <br>
+
+          <strong>— Joseph W.</strong>
         actions: []
         type: grid_item
       - title: lorem-ipsum
