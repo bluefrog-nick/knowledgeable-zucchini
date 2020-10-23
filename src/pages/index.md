@@ -64,15 +64,13 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Unbeatable Value
+      - Reduce purchase price based on adjustments to EBITDA
+      - Find issues in diligence that others may miss
+      - Minimize blown deal fees and wasted time
+      - Capital relationships, if needed
+      - Experts who will ensure you remain on the right track
     actions: []
     type: section_content
   - title: Acquisition Process Services We Provide
