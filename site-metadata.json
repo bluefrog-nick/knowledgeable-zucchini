@@ -87,7 +87,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Email",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
