@@ -27,7 +27,7 @@ li {
 }
 
 #seamlessly-manage,
-#contact-us {
+#contact-form {
     display: inline-block;
 }
 
@@ -35,7 +35,11 @@ li {
     width: 25%;
 }
 
-#contact-us {
+#contact-form * {
+    text-align: left;
+}
+
+#contact-form {
     width: 30%;
     margin-left: 20%;
 }
