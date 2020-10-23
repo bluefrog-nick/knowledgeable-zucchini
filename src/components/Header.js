@@ -8,7 +8,6 @@ import Submenu from './Submenu';
 export default class Header extends React.Component {
     render() {
         return (
-            <div class="header-top"><div class="inner"><strong>Phone: </strong><a href="tel:614-937-3490"><i class="fas fa-phone-alt"></i> 614-937-3490</a></div></div>
             <header id="masthead" className="site-header outer">
               <div className="inner">
                 <div className="site-header-inside">
