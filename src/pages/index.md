@@ -58,7 +58,7 @@ sections:
       - Support throughout the entire acquisition process
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     image_position: left
     content: |
