@@ -85,7 +85,7 @@ sections:
           <strong>— Anthony H.</strong>
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Business Valuation
         title_url: lorem-ipsum
         content: >-
           *Find Out if You're Overpaying*
