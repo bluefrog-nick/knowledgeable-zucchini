@@ -8,7 +8,7 @@ sections:
     content: ''
     actions: []
   - type: section_content
-    title: A Section With An Image
+    title: Protect Your Investment with Guardian
     section_id: text-img
     image: images/10.jpg
     image_position: left
