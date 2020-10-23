@@ -32,11 +32,6 @@ sections:
       your investment.
 
     actions: []
-  - type: section_content
-    title: Benefits of Working With Guardian
-    section_id: benefits-of-working
-    content: ''
-    actions: []
   - title: ''
     section_id: expertise-you-can-trust
     image_position: left
