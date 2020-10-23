@@ -45,7 +45,7 @@ sections:
   - type: section_content
     title: Benefits of Working With Guardian
     section_id: text-no-img
-    content: ''
+    content: test
     actions: []
   - title: Acquisition Process Services We Provide
     section_id: lorem-ipsum
