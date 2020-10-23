@@ -58,7 +58,7 @@ sections:
     image_position: left
     content: |-
       <h3>Unbeatable Value</h3>
-      <ul>
+      <ul class="benefits-list">
       <li>Reduce purchase price based on adjustments to EBITDA</li>
       <li>Find issues in diligence that others may miss</li>
       <li>Minimize blown deal fees and wasted time</li>
