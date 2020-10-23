@@ -47,5 +47,11 @@ sections:
     section_id: text-no-img
     content: ''
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: section_grid
 template: advanced
 ---
