@@ -49,7 +49,7 @@ sections:
     actions: []
   - title: Acquisition Process Services We Provide
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     col_number: three
     grid_items:
       - title: lorem-ipsum
