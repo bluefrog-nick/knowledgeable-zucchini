@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: section_hero
-    title: Your Acquisition Due Diligence Partner
+    title: Contact the Guardian Experts
     section_id: hero
     image: images/5.jpg
     content: ''
