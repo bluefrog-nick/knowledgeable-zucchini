@@ -48,7 +48,7 @@ sections:
     content: ''
     actions: []
   - title: ''
-    section_id: lorem-ipsum
+    section_id: expertise-you-can-trust
     image_position: left
     content: |
       Expertise You Can Trust
