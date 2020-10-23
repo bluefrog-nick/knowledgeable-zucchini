@@ -59,14 +59,30 @@ sections:
 
           <br>
 
+          - 1,800 business brokers
+
+          - 2,000+ investment bankers
+
+          - 160+ deal listing sites
+
+          - 150+ proprietary sources Get access for a one-time, $2,000 fee
 
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <div class="block-item-cta"><a
+          href="https://guardian-due-diligence-site-f74f0.netlify.app/contact-us/"
+          style="text-align: left;">Request More Info<!-- --> <span
+          class="icon-arrow-right" aria-hidden="true"></span></a></div>
 
-          - Lorem ipsum
+          <br>
 
-          - dolor sit amet
+
+          <em>"Within two months I had more deals than I could process. Guardian
+          brought me 200+ deals inside a 4 state region. I hit the ground
+          running"</em>
+
+          <br>
+
+          <strong>— Anthony H.</strong>
         actions: []
         type: grid_item
       - title: lorem-ipsum
