@@ -31,6 +31,12 @@ sections:
       includes full-service deal advisory that can save you thousands of
       dollars.
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 ---
