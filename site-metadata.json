@@ -54,7 +54,7 @@
             },
             {
                 "label": "Our Approach",
-                "url": "lorem-ipsum",
+                "url": "/our-approach",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
