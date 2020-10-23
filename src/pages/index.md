@@ -32,10 +32,6 @@ sections:
 
     actions:
       - type: action
-        label: View Demo
-        url: /docs/getting-started
-        style: primary
-      - type: action
         label: Get Started
         url: /docs/getting-started
         style: secondary
