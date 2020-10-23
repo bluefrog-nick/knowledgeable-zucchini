@@ -80,14 +80,6 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
