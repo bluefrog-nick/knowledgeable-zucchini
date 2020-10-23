@@ -47,7 +47,7 @@ sections:
     section_id: text-no-img
     content: ''
     actions: []
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     image_position: left
     content: >-
