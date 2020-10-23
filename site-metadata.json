@@ -54,27 +54,6 @@
             },
             {
                 "type": "action_menu",
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "type": "action",
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "type": "action_menu",
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link",
