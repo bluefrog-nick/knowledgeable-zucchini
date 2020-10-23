@@ -17,7 +17,6 @@ sections:
       With Guardian completing your QoE and due diligence report, you benefit
       from:
 
-
       - A firm operated by two partners who have bought businesses, not just
       CPAs
 
