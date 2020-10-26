@@ -7,11 +7,36 @@ li {
 }
 
 @media only screen and (min-width: 900px) {
+    /*
+    For home page double column section
+    */
     #expertise-you-can-trust,
     #unbeatable-value {
         width: 30%;
         display: inline-block;
         padding-top: 0;
+    }
+
+    #expertise-you-can-trust {
+        margin-left: 15%;
+    }
+
+    /*
+    For contact us split section
+    */
+
+    #seamlessly-manage,
+    #contact-form {
+        display: inline-block;
+    }
+    
+    #seamlessly-manage {
+        width: 25%;
+    }
+    
+    #contact-form {
+        width: 30%;
+        margin-left: 20%;
     }
 }
 
@@ -20,30 +45,9 @@ li {
     font-size: 1.5rem;
 }
 
-#expertise-you-can-trust {
-    margin-left: 15%;
-}
-
-#seamlessly-manage * {
-    text-align: left;
-}
-
-#seamlessly-manage,
-#contact-form {
-    display: inline-block;
-}
-
-#seamlessly-manage {
-    width: 25%;
-}
-
+#seamlessly-manage *,
 #contact-form * {
     text-align: left;
-}
-
-#contact-form {
-    width: 30%;
-    margin-left: 20%;
 }
 
 #providing-more p:not(:last-child) {
