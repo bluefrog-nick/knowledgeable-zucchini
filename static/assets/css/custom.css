@@ -66,5 +66,5 @@ For the hero
 }
 
 .block-hero {
-    padding-bottom: 3.75em;
+    padding-bottom: 3.75em !important;
 }
