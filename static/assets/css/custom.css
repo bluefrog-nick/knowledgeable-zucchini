@@ -113,6 +113,11 @@ For the top header
 }
 
 .top-header a {
-    text-decoration: none !important;
+    text-decoration: none;
+    border-bottom: none;
     color: #f7f9fb;
+}
+
+.top-header a:hover {
+    color: #dee5ef;
 }
