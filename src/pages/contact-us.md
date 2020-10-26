@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: Contact the Guardian Experts
     section_id: hero
-    image: images/5.jpg
+    image: /images/business-growth-2.jpg
     content: ''
     actions: []
   - type: section_content
