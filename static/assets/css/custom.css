@@ -94,3 +94,24 @@ For the hero
 .block-hero {
     padding-bottom: 3.75em !important;
 }
+
+/*
+For the top header
+*/
+
+.top-header {
+    background-color: #071749;
+    text-align: right;
+}
+
+.top-header p {
+    color: #f7f9fb;
+    margin: none;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-header a {
+    text-decoration: none;
+}
