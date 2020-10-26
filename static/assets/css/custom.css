@@ -83,17 +83,21 @@ li {
 For the hero
 */
 
-#hero .block-header {
+.block-hero .block-header {
     margin: 0;
 }
 
-#hero .block-buttons {
+.block-hero .block-buttons {
     display: none;
 }
 
 .block-hero {
     padding-top: 7em !important;
     padding-bottom: 7em !important;
+}
+
+#hero-main .bg-img {
+    opacity: 1 !important;
 }
 
 /*
