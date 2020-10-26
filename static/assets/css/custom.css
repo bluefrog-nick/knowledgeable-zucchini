@@ -128,3 +128,11 @@ For the top header
         margin-right: 1em;
     }
 }
+
+/*
+For site logo
+*/
+
+.site-logo img {
+    max-height: 72px !important;
+}
