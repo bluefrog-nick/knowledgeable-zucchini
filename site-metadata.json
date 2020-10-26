@@ -80,7 +80,7 @@
             },
             {
                 "label": "Email",
-                "url": "mailto:eholland@guardianduediligence.com",
+                "url": "localhost/mailto:eholland@guardianduediligence.com",
                 "style": "icon",
                 "icon_class": "",
                 "new_window": true,
