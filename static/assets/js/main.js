@@ -8,6 +8,10 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
+// Fix email link
+emailLink = document.querySelector('.social-links > a:last-of-type');
+emailLink.href = 'mailto:eholland@guardianduediligence.com';
+
 // Handle main navigation menu toggling on small screens
 function menuToggleHandler(e) {
   e.preventDefault();
