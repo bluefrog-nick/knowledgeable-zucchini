@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: Our Approach
     section_id: hero
-    image: images/5.jpg
+    image: /images/board-room-one.jpg
     content: ''
     actions: []
   - type: section_content
