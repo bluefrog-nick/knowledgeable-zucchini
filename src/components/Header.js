@@ -9,7 +9,7 @@ export default class Header extends React.Component {
     render() {
         return (
             <React.Fragment>
-              <div className="top-header"><p>Phone: <a href="tel:614-937-3490">(614) 937-3490</a></p></div>
+              <div className="top-header"><div class="inner">Phone: <a href="tel:614-937-3490">(614) 937-3490</a></div></div>
               <header id="masthead" className="site-header outer">
                 <div className="inner">
                   <div className="site-header-inside">
