@@ -42,15 +42,10 @@ li {
     /*
     Other
     */
-    .block-hero+.block {
-        margin-top: 0;
-    }
+    
 }
 
 @media only screen and (max-width: 900px) {
-    .block-hero+.block {
-        margin-top: -5em;
-    }
 
     #expertise-you-can-trust,
     #unbeatable-value {
@@ -75,6 +70,10 @@ li {
 .benefits-list {
     max-width: fit-content;
     margin: 0 auto;
+}
+
+.block-hero+.block {
+    margin-top: 0 !important;
 }
 
 /*
