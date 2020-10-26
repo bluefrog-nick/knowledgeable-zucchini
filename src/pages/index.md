@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     title: Your Acquisition Due Diligence Partner
-    section_id: hero
+    section_id: heroMain
     image: images/5.jpg
     content: ''
     actions: []
