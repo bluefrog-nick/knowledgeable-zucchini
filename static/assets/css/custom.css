@@ -2,10 +2,6 @@ li {
     text-align: left;
 }
 
-#hero {
-    height: 1em;
-}
-
 #benefits-of-working {
     margin-bottom: 0;
 }
@@ -55,4 +51,20 @@ li {
 .benefits-list {
     max-width: fit-content;
     margin: 0 auto;
+}
+
+/*
+For the hero
+*/
+
+#hero .block-header {
+    margin: 0;
+}
+
+#hero .block-buttons {
+    display: none;
+}
+
+.block-hero {
+    padding-bottom: 3.75em;
 }
