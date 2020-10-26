@@ -121,3 +121,9 @@ For the top header
 .top-header a:hover {
     color: #dee5ef;
 }
+
+@media only screen and (max-width: 900px) {
+    .top-header > .inner {
+        margin-right: 1em;
+    }
+}
