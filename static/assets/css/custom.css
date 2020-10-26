@@ -68,3 +68,7 @@ For the hero
 .block-hero {
     padding-bottom: 3.75em !important;
 }
+
+.block-hero+.block {
+    margin-top: 0 !important;
+}
