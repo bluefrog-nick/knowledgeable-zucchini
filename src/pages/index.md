@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     title: Your Acquisition Due Diligence Partner
     section_id: hero-main
-    image: images/5.jpg
+    image: '/images/AdobeStock_210995836 [Converted].jpg'
     content: ''
     actions: []
   - type: section_content
