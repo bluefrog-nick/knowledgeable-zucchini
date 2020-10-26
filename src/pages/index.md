@@ -40,7 +40,7 @@ sections:
     actions:
       - type: action
         label: Get Started
-        url: /content
+        url: /contact-us
         style: primary
   - type: section_content
     title: Benefits of Working With Guardian
