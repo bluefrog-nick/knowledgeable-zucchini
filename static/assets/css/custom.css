@@ -104,7 +104,7 @@ For the top header
     text-align: right;
 }
 
-.top-header p {
+.top-header > .inner {
     color: #f7f9fb;
     margin: none;
     max-width: 1200px;
