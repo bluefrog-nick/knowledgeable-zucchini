@@ -12,6 +12,9 @@ reframe(videoEmbeds.join(','));
 emailLink = document.querySelector('.social-links > a:last-of-type');
 emailLink.href = 'mailto:eholland@guardianduediligence.com';
 
+// Fix "undefined" in message box
+messageBox = document.querySelector('#contact-form textarea').innerHTML = ''
+
 // Handle main navigation menu toggling on small screens
 function menuToggleHandler(e) {
   e.preventDefault();
