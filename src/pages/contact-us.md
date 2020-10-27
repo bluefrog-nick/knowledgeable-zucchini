@@ -16,7 +16,7 @@ sections:
   - title: ''
     section_id: seamlessly-manage
     image_position: left
-    content: |+
+    content: |-
       <h2>Business Address:</h2>
       Atlanta Office<br>
       1040 Huff Road Suite 3217<br>
@@ -26,6 +26,7 @@ sections:
       205 E 42nd Street, 16th Floor<br>
       New York, New York 10017
 
+      <strong>Phone Number</strong>: 404-441-2637  
     actions: []
     type: section_content
 template: advanced
