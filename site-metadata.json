@@ -46,13 +46,6 @@
                 "has_subnav": false
             },
             {
-                "type": "action_menu",
-                "label": "Contact Us",
-                "url": "/contact-us",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Our Approach",
                 "url": "/our-approach",
                 "style": "link",
@@ -61,6 +54,13 @@
                 "has_subnav": false,
                 "subnav_links": [],
                 "type": "action_menu"
+            },
+            {
+                "type": "action_menu",
+                "label": "Contact Us",
+                "url": "/contact-us",
+                "style": "link",
+                "has_subnav": false
             }
         ]
     },
@@ -77,14 +77,6 @@
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Email",
-                "url": "mailto:eholland@guardianduediligence.com",
-                "style": "icon",
-                "icon_class": "",
-                "new_window": true,
-                "type": "action"
             }
         ]
     }
