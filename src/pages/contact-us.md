@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: section_hero
-    title: Contact the Guardian Experts
+    title: Contact Your Due Diligence Experts
     section_id: hero
     image: /images/business-growth-2.jpg
     content: ''
