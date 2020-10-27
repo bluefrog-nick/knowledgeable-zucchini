@@ -21,7 +21,7 @@ sections:
       Atlanta Office<br>
       1040 Huff Road Suite 3217<br>
       Atlanta, GA 30318<br>
-
+      <br>
       New York City Office<br>
       205 E 42nd Street, 16th Floor<br>
       New York, New York 10017
