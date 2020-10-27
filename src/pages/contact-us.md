@@ -17,7 +17,7 @@ sections:
     section_id: seamlessly-manage
     image_position: left
     content: |-
-      <h2>Business Address:</h2>
+      <h2 style="font-size: 18px">Business Address:</h2>
       Atlanta Office<br>
       1040 Huff Road Suite 3217<br>
       Atlanta, GA 30318<br>
