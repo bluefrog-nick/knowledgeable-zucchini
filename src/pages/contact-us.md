@@ -16,15 +16,16 @@ sections:
   - title: ''
     section_id: seamlessly-manage
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      <h2>Business Address:</h2>
+      Atlanta Office<br>
+      1040 Huff Road Suite 3217<br>
+      Atlanta, GA 30318<br>
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      New York City Office<br>
+      205 E 42nd Street, 16th Floor<br>
+      New York, New York 10017
 
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
 template: advanced
