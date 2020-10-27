@@ -77,14 +77,6 @@
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Email",
-                "url": "mailto:eholland@guardianduediligence.com",
-                "style": "icon",
-                "icon_class": "",
-                "new_window": true,
-                "type": "action"
             }
         ]
     }
