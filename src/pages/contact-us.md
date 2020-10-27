@@ -24,7 +24,7 @@ sections:
       <br>
       New York City Office<br>
       205 E 42nd Street, 16th Floor<br>
-      New York, New York 10017
+      New York, New York 10017<br>
       <br>
       <strong>Phone Number</strong>: 404-441-2637  
     actions: []
