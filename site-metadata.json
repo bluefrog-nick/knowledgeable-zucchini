@@ -62,7 +62,8 @@
                 "style": "link",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "test"
     },
     "footer": {
         "type": "footer",
