@@ -13,9 +13,9 @@ reframe(videoEmbeds.join(','));
 //emailLink.href = 'mailto:eholland@guardianduediligence.com';
 
 // Fix "undefined" in message box
-// if (document.body.contains(document.querySelector('#contact-form textarea'))) {
-//   document.querySelector('#contact-form textarea').innerHTML = ''
-// }
+if (document.body.contains(document.querySelector('#contact-form textarea'))) {
+  document.querySelector('#contact-form textarea').innerHTML = ''
+}
 
 // Handle main navigation menu toggling on small screens
 function menuToggleHandler(e) {
