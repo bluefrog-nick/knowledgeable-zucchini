@@ -125,13 +125,12 @@ sections:
           - Database of over 1,000 deals to compare to your industry and size
 
 
+          <br><br>
+
+
           <div class="block-buttons"><a class="button"
           href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
           More Info</a></div>
-
-          <br>
-
-          <br>
 
           <br>
 
