@@ -79,7 +79,7 @@ sections:
     col_number: three
     grid_items:
       - title: Deal Sourcing
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           *Boost your deal flow today!*
 
