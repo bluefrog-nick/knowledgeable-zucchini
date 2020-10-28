@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     title: Your Acquisition Due Diligence Partner
     section_id: hero-main
-    image: /images/guardian-dd-homepage-hero-cropped3.jpeg
+    image: /images/robust-kangaroo.jpeg
     content: ''
     actions: []
   - type: section_content
