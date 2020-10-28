@@ -97,8 +97,7 @@ sections:
           <em>Get access for a one-time, $2,000 fee</em>
 
 
-          <div class="block-buttons" style="text-align: center;"><a
-          class="button"
+          <div class="block-buttons"><a class="button" style="margin: 0 auto"
           href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
           More Info</a></div>
 
@@ -131,7 +130,7 @@ sections:
           <br>
 
 
-          <div class="block-buttons"><a class="button"
+          <div class="block-buttons"><a class="button" style="margin: 0 auto"
           href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
           More Info</a></div>
 
@@ -166,7 +165,7 @@ sections:
           <br>
 
 
-          <div class="block-buttons"><a class="button"
+          <div class="block-buttons"><a class="button" style="margin: 0 auto"
           href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
           More Info</a></div>
 
