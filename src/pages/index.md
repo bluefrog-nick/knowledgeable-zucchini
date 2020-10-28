@@ -106,7 +106,7 @@ sections:
 
           <em>"Within two months I had more deals than I could process. Guardian
           brought me 200+ deals inside a 4 state region. I hit the ground
-          running"</em>
+          running."</em>
 
           <br>
 
@@ -140,7 +140,7 @@ sections:
           <em>"I was so wrong. I started with a 4x valuation multiple. But after
           I talked to Elliott, he pointed out customer concentration & incorrect
           add backs that took the valuation below 3x. I saved over $500k on
-          purchase price. Totally worth it"</em>
+          purchase price. Totally worth it."</em>
 
           <br>
 
