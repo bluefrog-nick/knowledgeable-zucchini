@@ -189,4 +189,7 @@ sections:
         type: grid_item
     type: section_grid
 template: advanced
+excerpt: >-
+  Protect your investment with buyside advisory and due diligence services that
+  will help you effectively manage the entire acquisition process.
 ---
