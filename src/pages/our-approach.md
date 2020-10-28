@@ -1,6 +1,8 @@
 ---
 title: Business Acquisition Services
-excerpt: lorem-ipsum
+excerpt: >-
+  Protect your investment with buyside advisory and due diligence services that
+  will help you effectively manage the entire acquisition process.
 sections:
   - type: section_hero
     title: Our Approach to Due Diligence
