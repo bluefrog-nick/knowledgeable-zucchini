@@ -7,7 +7,7 @@ sections:
   - type: section_hero
     title: Our Approach to Due Diligence
     section_id: hero
-    image: /images/guardian-dd-our-approach-hero.jpeg
+    image: /images/guardian-dd-our-approach-hero.jpg
     content: ''
     actions: []
   - type: section_content
