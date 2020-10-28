@@ -125,7 +125,7 @@ sections:
           - Database of over 1,000 deals to compare to your industry and size
 
 
-          <br><br>
+          <br>
 
 
           <div class="block-buttons"><a class="button"
