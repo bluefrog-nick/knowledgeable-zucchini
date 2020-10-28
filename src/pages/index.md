@@ -106,7 +106,7 @@ sections:
 
           <em>"Within two months I had more deals than I could process. Guardian
           brought me 200+ deals inside a 4 state region. I hit the ground
-          running"</em>
+          running."</em>
 
           <br>
 
