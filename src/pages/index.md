@@ -93,8 +93,6 @@ sections:
 
           - 150+ proprietary sources
 
-          <br>
-
 
           <em>Get access for a one-time, $2,000 fee</em>
 
