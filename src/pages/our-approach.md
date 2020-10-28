@@ -1,5 +1,5 @@
 ---
-title: Business Acquisition Services
+title: Our Approach
 excerpt: >-
   Protect your investment with buyside advisory and due diligence services that
   will help you effectively manage the entire acquisition process.
