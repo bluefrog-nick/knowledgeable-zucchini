@@ -1,6 +1,8 @@
 ---
-title: Home
-excerpt: lorem-ipsum
+title: Our Approach
+excerpt: >-
+  Explore our approach to complete due diligence services that go beyond just
+  providing a quality of earnings (QoE) report.
 sections:
   - type: section_hero
     title: Our Approach to Due Diligence
