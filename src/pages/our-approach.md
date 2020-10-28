@@ -1,8 +1,8 @@
 ---
 title: Our Approach
 excerpt: >-
-  Protect your investment with buyside advisory and due diligence services that
-  will help you effectively manage the entire acquisition process.
+  Explore our approach to complete due diligence services that go beyond just
+  providing a quality of earnings (QoE) report.
 sections:
   - type: section_hero
     title: Our Approach to Due Diligence
