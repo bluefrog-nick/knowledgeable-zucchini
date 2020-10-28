@@ -96,9 +96,11 @@ For the hero
     padding-bottom: 7em !important;
 }
 
+/*
 #hero-main .bg-img {
     opacity: 1 !important;
 }
+*/
 
 .inner-sm {
     max-width: 1200px !important;
