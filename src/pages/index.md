@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Business Acquisition Services
 sections:
   - type: section_hero
     title: Your Acquisition Due Diligence Partner
