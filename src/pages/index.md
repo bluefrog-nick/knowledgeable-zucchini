@@ -30,7 +30,13 @@ sections:
       the deal, not the details, as we provide an expert layer of protection for
       your investment.
 
-    actions: []
+    actions:
+      - label: Learn More About Us
+        url: /our-approach
+        style: primary
+        icon_class: ''
+        new_window: false
+        type: action
   - type: section_cta
     title: Contact Elliott
     section_id: cta
@@ -88,10 +94,9 @@ sections:
           - 150+ proprietary sources Get access for a one-time, $2,000 fee
 
 
-          <div class="block-item-cta"><a
-          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/"
-          style="text-align: left;">Request More Info<!-- --> <span
-          class="icon-arrow-right" aria-hidden="true"></span></a></div>
+          <div class="block-buttons"><a
+          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
+          More Info</a></div>
 
           <br>
 
