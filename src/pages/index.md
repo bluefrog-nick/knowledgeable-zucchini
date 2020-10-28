@@ -34,7 +34,7 @@ sections:
       - label: Learn More About Us
         url: /contact-us
         style: primary
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: false
         type: action
       - label: lorem-ipsum
