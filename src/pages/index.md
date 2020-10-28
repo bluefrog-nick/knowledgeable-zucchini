@@ -94,10 +94,9 @@ sections:
           - 150+ proprietary sources Get access for a one-time, $2,000 fee
 
 
-          <div class="block-item-cta"><a
-          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/"
-          style="text-align: left;">Request More Info<!-- --> <span
-          class="icon-arrow-right" aria-hidden="true"></span></a></div>
+          <div class="block-buttons"><a
+          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
+          More Info</a></div>
 
           <br>
 
