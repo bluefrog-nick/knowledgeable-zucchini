@@ -94,7 +94,7 @@ sections:
           - 150+ proprietary sources
 
 
-          <em>Get access for a one-time, $2,000 fee</em>
+          Get access for a one-time, $2,000 fee
 
 
           <div class="block-buttons"><a class="button"
