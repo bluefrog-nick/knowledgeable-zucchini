@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: section_hero
-    title: Our Approach
+    title: Our Approach to Due Diligence
     section_id: hero
     image: /images/board-room-one.jpg
     content: ''
