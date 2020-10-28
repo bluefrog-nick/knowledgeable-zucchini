@@ -7,7 +7,7 @@ sections:
   - type: section_hero
     title: Contact Your Due Diligence Experts
     section_id: hero
-    image: /images/guardian-dd-contact-us-hero.jpeg
+    image: /images/guardian-dd-contact-us-hero.jpg
     content: ''
     actions: []
   - type: section_content
