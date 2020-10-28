@@ -91,10 +91,13 @@ sections:
 
           - 160+ deal listing sites
 
-          - 150+ proprietary sources Get access for a one-time, $2,000 fee
+          - 150+ proprietary sources
 
 
-          <div class="block-buttons"><a
+          <em>Get access for a one-time, $2,000 fee</em>
+
+
+          <div class="block-buttons"><a class="button"
           href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
           More Info</a></div>
 
@@ -122,10 +125,14 @@ sections:
           - Database of over 1,000 deals to compare to your industry and size
 
 
-          <div class="block-item-cta"><a
-          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/"
-          style="text-align: left;">Request More Info<!-- --> <span
-          class="icon-arrow-right" aria-hidden="true"></span></a></div>
+          <br>
+
+          <br>
+
+
+          <div class="block-buttons"><a class="button"
+          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
+          More Info</a></div>
 
           <br>
 
@@ -153,10 +160,14 @@ sections:
           - 10+ years of navigating the ways sellers can manipulate financials
 
 
-          <div class="block-item-cta"><a
-          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/"
-          style="text-align: left;">Request More Info<!-- --> <span
-          class="icon-arrow-right" aria-hidden="true"></span></a></div>
+          <br>
+
+          <br>
+
+
+          <div class="block-buttons"><a class="button"
+          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
+          More Info</a></div>
 
           <br>
 
