@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Business Acquisition Services
 excerpt: lorem-ipsum
 sections:
   - type: section_hero
