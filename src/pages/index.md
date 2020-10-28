@@ -31,7 +31,7 @@ sections:
       your investment.
 
     actions:
-      - label: Learn M
+      - label: Learn More About Us
         url: /contact-us
         style: primary
         icon_class: lorem-ipsum
