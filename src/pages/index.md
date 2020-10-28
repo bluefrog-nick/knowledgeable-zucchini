@@ -116,7 +116,7 @@ sections:
       - title: Business Valuation
         title_url: lorem-ipsum
         content: >-
-          *Find Out if You're Overpaying*
+          *Find out if you're overpaying.*
 
           <br>
 
