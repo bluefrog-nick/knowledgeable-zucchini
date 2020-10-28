@@ -13,7 +13,7 @@ sections:
   - type: section_content
     title: Providing More Than Just a Quality of Earnings (QoE)
     section_id: providing-more
-    image: /images/guardian-dd-our-approach-module.jpg
+    image: /images/oval-tiger.jpg
     image_position: left
     content: >+
       With Guardian completing your QoE and due diligence report, you benefit
