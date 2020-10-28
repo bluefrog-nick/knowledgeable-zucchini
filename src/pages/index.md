@@ -37,12 +37,6 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
   - type: section_cta
     title: Contact Elliott
     section_id: cta
