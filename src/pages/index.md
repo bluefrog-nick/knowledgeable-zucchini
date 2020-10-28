@@ -4,13 +4,13 @@ sections:
   - type: section_hero
     title: Your Acquisition Due Diligence Partner
     section_id: hero-main
-    image: /images/LP-header-blue.jpg
+    image: /images/guardian-dd-homepage-hero.jpeg
     content: ''
     actions: []
   - type: section_content
     title: Protect Your Investment with Guardian
     section_id: text-img
-    image: images/10.jpg
+    image: /images/headshot-cropped.jpeg
     image_position: left
     content: >+
       When you’re preparing to close a business acquisition, it’s crucial to

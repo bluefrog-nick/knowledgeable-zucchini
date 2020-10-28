@@ -5,13 +5,13 @@ sections:
   - type: section_hero
     title: Our Approach to Due Diligence
     section_id: hero
-    image: /images/board-room-one.jpg
+    image: /images/guardian-dd-our-approach-hero.jpeg
     content: ''
     actions: []
   - type: section_content
     title: Providing More Than Just a Quality of Earnings (QoE)
     section_id: providing-more
-    image: images/10.jpg
+    image: /images/headshot.jpeg
     image_position: left
     content: >+
       With Guardian completing your QoE and due diligence report, you benefit
