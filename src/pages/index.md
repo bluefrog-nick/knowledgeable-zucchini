@@ -114,7 +114,7 @@ sections:
         actions: []
         type: grid_item
       - title: Business Valuation
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           *Find out if you're overpaying.*
 
