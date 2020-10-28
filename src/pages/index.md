@@ -91,7 +91,9 @@ sections:
 
           - 160+ deal listing sites
 
-          - 150+ proprietary sources Get access for a one-time, $2,000 fee
+          - 150+ proprietary sources
+
+          <em>Get access for a one-time, $2,000 fee</em>
 
 
           <div class="block-buttons"><a class="button"
