@@ -1,6 +1,8 @@
 ---
 title: Contact Us
-excerpt: lorem-ipsum
+excerpt: >-
+  Contact us today to learn more about our services and work with an expert for
+  seamless management of your business acquisition process.
 sections:
   - type: section_hero
     title: Contact Your Due Diligence Experts
