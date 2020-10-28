@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Contact Us
 excerpt: lorem-ipsum
 sections:
   - type: section_hero
