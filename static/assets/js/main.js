@@ -1,3 +1,4 @@
+window.onGatsbyRouteUpdate = function() {
 /**
  * Main JS file for theme behaviours
  */
@@ -8,162 +9,104 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
-// Fix email link
-emailLink = document.querySelector('.social-links > a:last-of-type');
-emailLink.href = 'mailto:eholland@guardianduediligence.com';
+// Remove nav related classes on page load
+document.body.classList.remove('menu--opened', 'toc--opened'); 
 
-// Fix "undefined" in message box
-//messageBox = document.querySelector('#contact-form textarea').innerHTML = ''
-
-// Handle main navigation menu toggling on small screens
-function menuToggleHandler(e) {
-  e.preventDefault();
-  document.body.classList.toggle('menu--opened');
+// Menu on small screens
+let menuToggle = document.querySelectorAll('.menu-toggle');
+if (menuToggle) {
+  for (let i = 0; i < menuToggle.length; i++) {
+    menuToggle[i].addEventListener('click', function (e) {
+      document.body.classList.toggle('menu--opened');
+      e.preventDefault();
+    }, false);
+  }
 }
 
-// Handle docs navigation menu toggling on small screens
-function docsNavToggleHandler(e) {
-  e.preventDefault();
-  document.body.classList.toggle('docs-menu--opened');
-}
-
-// Handle submenu toggling
-function submenuToggleHandler(e) {
-  e.preventDefault();
-  this.parentNode.classList.toggle('active');
-}
-
-window.addMainNavigationHandlers = function() {
-  const menuToggle = document.querySelectorAll('.menu-toggle');
-  if (menuToggle) {
-    for (let i = 0; i < menuToggle.length; i++) {
-      menuToggle[i].addEventListener('click', menuToggleHandler, false);
-    }
-  }
-
-  const submenuToggle = document.querySelectorAll('.submenu-toggle');
-  if (submenuToggle) {
-    for (let i = 0; i < submenuToggle.length; i++) {
-      submenuToggle[i].addEventListener('click', submenuToggleHandler, false);
-    }
-  }
-};
-
-window.removeMainNavigationHandlers = function() {
-  // Remove nav related classes on page load
-  document.body.classList.remove('menu--opened');
-
-  const menuToggle = document.querySelectorAll('.menu-toggle');
-  if (menuToggle) {
-    for (let i = 0; i < menuToggle.length; i++) {
-      menuToggle[i].removeEventListener('click', menuToggleHandler, false);
-    }
-  }
-
-  const submenuToggle = document.querySelectorAll('.submenu-toggle');
-  if (submenuToggle) {
-    for (let i = 0; i < submenuToggle.length; i++) {
-      submenuToggle[i].removeEventListener('click', submenuToggleHandler, false);
-    }
-  }
-};
-
-window.addDocsNavigationHandlers = function() {
-  const docsNavToggle = document.getElementById('docs-nav-toggle');
-  if (docsNavToggle) {
-    docsNavToggle.addEventListener('click', docsNavToggleHandler, false);
-  }
-
-  const docsSubmenuToggle = document.querySelectorAll('.docs-submenu-toggle');
-  if (docsSubmenuToggle) {
-    for (let i = 0; i < docsSubmenuToggle.length; i++) {
-      docsSubmenuToggle[i].addEventListener('click', submenuToggleHandler, false);
-    }
-  }
-};
-
-window.removeDocsNavigationHandlers = function() {
-  // Remove docs nav related classes on page load
-  document.body.classList.remove('docs-menu--opened');
-
-  const docsNavToggle = document.getElementById('docs-nav-toggle');
-  if (docsNavToggle) {
-    docsNavToggle.removeEventListener('click', docsNavToggleHandler, false);
-  }
-
-  const docsSubmenuToggle = document.querySelectorAll('.docs-submenu-toggle');
-  if (docsSubmenuToggle) {
-    for (let i = 0; i < docsSubmenuToggle.length; i++) {
-      docsSubmenuToggle[i].removeEventListener('click', submenuToggleHandler, false);
-    }
-  }
-};
-
-window.addPageNavLinks = function() {
-  const pageToc = document.getElementById('page-nav-inside');
-  const pageTocContainer = document.getElementById('page-nav-link-container');
-
-  if (pageToc && pageTocContainer) {
-    const pageContent = document.querySelector('.type-docs .post-content');
-
-    // Create in-page navigation
-    const headerLinks = getHeaderLinks({
-      root: pageContent
-    });
-    if (headerLinks.length > 0) {
-      pageToc.classList.add('has-links');
-      renderHeaderLinks(pageTocContainer, headerLinks);
-    }
-
-    // Scroll to anchors
-    let scroll = new SmoothScroll('[data-scroll]');
-    let hash = window.decodeURI(location.hash.replace('#', ''));
-    if (hash !== '') {
-      window.setTimeout( function(){
-        let anchor = document.getElementById(hash);
-        if (anchor) {
-          scroll.animateScroll(anchor);
-        }
-      }, 0);
-    }
-
-    // Highlight current anchor
-    let pageTocLinks = pageTocContainer.getElementsByTagName('a');
-    if (pageTocLinks.length > 0) {
-      let spy = new Gumshoe('#page-nav-inside a', {
-        nested: true,
-        nestedClass: 'active-parent'
-      });
-    }
-
-    // Add link to page content headings
-    let pageHeadings = getElementsByTagNames(pageContent, ["h2", "h3"]);
-    for (let i = 0; i < pageHeadings.length; i++) {
-      let heading = pageHeadings[i];
-      if (typeof heading.id !== "undefined" && heading.id !== "") {
-        heading.insertBefore(anchorForId(heading.id), heading.firstChild);
-      }
-    }
-
-    // Copy link url
-    let clipboard = new ClipboardJS('.hash-link', {
-      text: function(trigger) {
-        return window.location.href.replace(window.location.hash,"") + trigger.getAttribute('href');
-      }
+// Dropdown arrow
+let mainMenu = document.getElementById('main-navigation');
+let submenu = mainMenu.querySelectorAll('.submenu');
+if (submenu) {
+  for (let i = 0; i < submenu.length; i++) {
+    let submenuBtn = document.createElement('button');
+    submenuBtn.setAttribute('class','submenu-toggle');
+    submenuBtn.innerHTML = '<span class="icon-angle-right" aria-hidden="true"></span><span class="screen-reader-text">Sub-menu</span>';
+    submenu[i].parentNode.insertBefore(submenuBtn, submenu[i]);
+    submenuBtn.addEventListener ('click', function() {
+      this.classList.toggle('active');
+      this.nextSibling.classList.toggle('active');
     });
   }
+
+}
+!function(e,n){function t(e){const t=function(e){const t=n.createElement("link");return t.rel="prerender",t.href=e,t}(e);n.head.appendChild(t)}function r(e){e.removeEventListener("mouseenter",o,!1)}function o(o){const c=o.target,{href:i}=c,u=new URL(i),f=u.href;!function(e){return!!n.head.querySelector(`link[rel="prerender"][href="${e}"]`)}(f)&&function(n){const{host:t}=e.location;return n.host===t}(u)?(t(f),r(c)):r(c)}function c(e){e.addEventListener("mouseenter",o,!1)}n.querySelectorAll("a").forEach(c)}(window,window.document);
+
+let docsNav = document.getElementById('docs-nav');
+if (docsNav) {
+  // Docs nav on small screens
+  let docsNavToggle = document.getElementById('docs-nav-toggle');
+  docsNavToggle.addEventListener('click', function (e) {
+    document.body.classList.toggle('toc--opened');
+    e.preventDefault();
+  }, false);
+
+  // Submenu toggle
+  let submenuToggle = docsNav.querySelectorAll('.submenu-toggle');
+  for (let i = 0; i < submenuToggle.length; i++) {
+    submenuToggle[i].addEventListener('click', function (e) {
+      submenuToggle[i].parentNode.classList.toggle('active');
+    }, false);
+  }
 }
 
-window.removePageNavLinks = function() {
-  const pageToc = document.getElementById('page-nav-inside');
-  const pageTocContainer = document.getElementById('page-nav-link-container');
+let pageNav = document.getElementById('page-nav');
+if (pageNav) {
 
-  if (pageToc && pageTocContainer) {
-    pageToc.classList.remove('has-links');
-    while (pageTocContainer.firstChild) {
-      pageTocContainer.removeChild(pageTocContainer.firstChild);
+  let pageToc = document.getElementById('page-nav-inside');
+  let pageContent = document.querySelector('.type-docs .post-content');
+
+  // Create in-page navigation
+  let headerLinks = getHeaderLinks({
+    root: pageContent
+  });
+  renderHeaderLinks(pageToc, headerLinks);
+
+  // Scroll to anchors
+  let scroll = new SmoothScroll('[data-scroll]');
+  let hash = window.decodeURI(location.hash.replace('#', ''));
+  if (hash !== '') {
+    window.setTimeout( function(){
+      let anchor = document.getElementById(hash);
+      if (anchor) {
+        scroll.animateScroll(anchor);
+      }
+    }, 0);
+  }
+
+  // Highlight current anchor
+  let pageTocLinks = pageToc.getElementsByTagName('a');
+  if (pageTocLinks.length > 0) {
+    let spy = new Gumshoe('#page-nav-inside a', {
+      nested: true,
+      nestedClass: 'active-parent'
+    });
+  }
+
+  // Add link to page content headings
+  let pageHeadings = getElementsByTagNames(pageContent, ["h2", "h3"]);
+  for (let i = 0; i < pageHeadings.length; i++) {
+    let heading = pageHeadings[i];
+    if (typeof heading.id !== "undefined" && heading.id !== "") {
+      heading.insertBefore(anchorForId(heading.id), heading.firstChild);
     }
   }
+
+  // Copy link url
+  let clipboard = new ClipboardJS('.hash-link', {
+    text: function(trigger) {
+      return window.location.href.replace(window.location.hash,"") + trigger.getAttribute('href');
+    }
+  });
 }
 
 function getElementsByTagNames(root, tagNames) {
@@ -269,4 +212,5 @@ function anchorForId(id) {
 }
 
 // Syntax Highlighter
-// Prism.highlightAll();
+Prism.highlightAll();
+};
