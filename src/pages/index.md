@@ -32,7 +32,7 @@ sections:
 
     actions:
       - label: Learn More About Us
-        url: /contact-us
+        url: /our-approach
         style: primary
         icon_class: ''
         new_window: false
