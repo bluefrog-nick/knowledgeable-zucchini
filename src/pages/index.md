@@ -33,7 +33,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: primary
+        style: secondary
         icon_class: lorem-ipsum
         new_window: false
         type: action
