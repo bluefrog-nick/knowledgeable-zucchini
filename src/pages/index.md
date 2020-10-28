@@ -148,7 +148,7 @@ sections:
         actions: []
         type: grid_item
       - title: Quality of Earnings
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           *Am I buying a lemon?*
 
