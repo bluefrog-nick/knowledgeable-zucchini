@@ -131,6 +131,10 @@ sections:
 
           <br>
 
+          <br>
+
+          <br>
+
 
           <em>"I was so wrong. I started with a 4x valuation multiple. But after
           I talked to Elliott, he pointed out customer concentration & incorrect
