@@ -79,7 +79,7 @@ sections:
     col_number: three
     grid_items:
       - title: Deal Sourcing
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           *Boost your deal flow today!*
 
@@ -114,7 +114,7 @@ sections:
         actions: []
         type: grid_item
       - title: Business Valuation
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           *Find out if you're overpaying.*
 
@@ -148,7 +148,7 @@ sections:
         actions: []
         type: grid_item
       - title: Quality of Earnings
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           *Am I buying a lemon?*
 
