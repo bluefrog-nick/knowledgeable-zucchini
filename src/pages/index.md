@@ -30,7 +30,13 @@ sections:
       the deal, not the details, as we provide an expert layer of protection for
       your investment.
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - type: section_cta
     title: Contact Elliott
     section_id: cta
