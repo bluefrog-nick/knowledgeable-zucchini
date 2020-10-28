@@ -32,7 +32,7 @@ sections:
 
     actions:
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: /contact-us
         style: primary
         icon_class: lorem-ipsum
         new_window: false
