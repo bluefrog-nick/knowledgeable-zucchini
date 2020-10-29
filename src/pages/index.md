@@ -95,7 +95,7 @@ sections:
 
 
           <em style="position: absolute;">Get access for a one-time, $2,000
-          fee</em>
+          fee.</em>
 
 
           <br>
