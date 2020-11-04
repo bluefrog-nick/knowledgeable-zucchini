@@ -18,9 +18,9 @@ sections:
       and legal diligence processes to ensure you won't lose your money buying a
       lemon. At Guardian Due Diligence, we’re dedicated to providing
       cost-effective, institutional-level quality buyside advisory and due
-      diligence work with a focus on integrity. Our founder, Elliott Holland,
+      diligence work with a focus on integrity. **Our founder, Elliott Holland,
       was a self-funded searcher for six years prior to starting Guardian, and
-      he puts that experience to work for each client.
+      he puts that experience to work for each client.**
 
 
       At Guardian Due Diligence, we support acquisition entrepreneurs looking to
