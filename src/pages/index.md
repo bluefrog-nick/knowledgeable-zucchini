@@ -90,7 +90,7 @@ sections:
       - title: Basic Deal Review
         title_url: ''
         content: >-
-          *Boost your deal flow today!*
+          <em>Know Good or Bad Deal Right Away!</em>
 
           <br>
 
