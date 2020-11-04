@@ -12,24 +12,7 @@ sections:
     section_id: text-img
     image: /images/headshot-cropped.jpg
     image_position: left
-    content: >+
-      When you’re preparing to close a business acquisition, it’s crucial to
-      work with a partner who can effectively manage the financial, operational,
-      and legal diligence processes to ensure you won't lose your money buying a
-      lemon. At Guardian Due Diligence, we’re dedicated to providing
-      cost-effective, institutional-level quality buyside advisory and due
-      diligence work with a focus on integrity. **Our founder, Elliott Holland,
-      was a self-funded searcher for six years prior to starting Guardian, and
-      he puts that experience to work for each client.**
-
-
-      At Guardian Due Diligence, we support acquisition entrepreneurs looking to
-      execute a business acquisition. We provide institutional-level buyside
-      advisory work and can lead the full deal process or focus strictly on due
-      diligence in a cost-effective manner. This allows our clients to focus on
-      the deal, not the details, as we provide an expert layer of protection for
-      your investment.
-
+    content: "When you’re preparing to close a business acquisition, it’s crucial to work with a partner who can effectively manage the financial, operational, and legal diligence processes to ensure you won't lose your money buying a lemon. At Guardian Due Diligence, we’re dedicated to providing cost-effective, institutional-level quality buyside advisory and due diligence work with a focus on integrity. **Our founder, Elliott Holland, was a self-funded searcher for six years prior to starting Guardian, and he puts that experience to work for each client.**\n\n- #1 diligence provider for investors buying small businesses (under $2mm in cash flow)\n- Featured as diligence expert in\_Walker Deibel's Acquisition Lab (Walker is author of \"Buy Then Build\")\n- As seen on the #1 Investing Podcast Bigger Pockets\n- Harvard Business School MBA\n"
     actions:
       - label: Learn More About Us
         url: /our-approach
