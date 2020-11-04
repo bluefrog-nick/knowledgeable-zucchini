@@ -8,13 +8,6 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
-<<<<<<< HEAD
-=======
-// Fix email link
-//emailLink = document.querySelector('.social-links > a:last-of-type');
-//emailLink.href = 'mailto:eholland@guardianduediligence.com';
-
->>>>>>> 62c481aa6a83e5db0e1ea985d5834273740d27bd
 // Fix "undefined" in message box
 if (document.body.contains(document.querySelector('#contact-form textarea'))) {
   document.querySelector('#contact-form textarea').innerHTML = ''
