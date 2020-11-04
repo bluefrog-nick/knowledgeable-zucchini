@@ -11,7 +11,7 @@ sections:
     content: ''
     actions: []
   - type: section_content
-    title: Providing More Than Just a Quality of Earnings (QoE)
+    title: Providing More Than a Quality of Earnings (QoE)
     section_id: providing-more
     image: /images/guardian-due-diligence-our-approach-module.jpeg
     image_position: left
