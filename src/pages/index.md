@@ -94,17 +94,14 @@ sections:
 
           <br>
 
-          - 1,800 business brokers
+          - Reviewed over 2,000 deals over 10 years
 
-          - 2,000+ investment bankers
+          - Knowing Top 10 places to look for deal breakers
 
-          - 160+ deal listing sites
-
-          - 150+ proprietary sources
+          - Know now and save 45-60 days chasing a bad deal
 
 
-          <em style="position: absolute;">Get access for a one-time, $2,000
-          fee.</em>
+          <em style="position: absolute;">Packages starting at $5,000.</em>
 
 
           <br>
@@ -118,13 +115,16 @@ sections:
           <br>
 
 
-          <em>"Within two months I had more deals than I could process. Guardian
-          brought me 200+ deals inside a 4 state region. I hit the ground
-          running."</em>
+          <em>"Guardian exposed certain downside scenarios that we did not
+          initially uncover during our Due Diligence period. Guardian]gave us
+          the confidence to walk away from the deal after months of
+          negotiations. I am particularly thankful for Elliott Holland's focus
+          on capital preservation, reminding our team that the best deal may be
+          the one you walk away from."</em>
 
           <br>
 
-          <strong>— Anthony H.</strong>
+          <strong>— Keith R.</strong>
         actions: []
         type: grid_item
       - title: Quality of Earnings
