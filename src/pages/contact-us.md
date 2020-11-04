@@ -32,7 +32,7 @@ sections:
     actions: []
     type: section_content
   - title: Test
-    section_id: ''
+    section_id: test
     image_position: left
     content: "<script charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/shell.js\"></script>\n<script>\n\t\thbspt.forms.create({\n\t\tportalId: \"5967464\",\n\t\tformId: \"b1bf880d-a0bb-4312-8fa0-02026272c864\"\n});\n</script>\n"
     actions: []
