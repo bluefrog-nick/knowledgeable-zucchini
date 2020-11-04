@@ -31,5 +31,11 @@ sections:
       <strong>Phone Number</strong>: 404-441-2637  
     actions: []
     type: section_content
+  - title: Test
+    section_id: ''
+    image_position: left
+    content: "<!--[if lte IE 8]>\n<script charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/v2-legacy.js\"></script>\n<![endif]-->\n<script charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/v2.js\"></script>\n<script>\n  hbspt.forms.create({\n\tportalId: \"229870\",\n\tformId: \"1919e039-c11c-4624-89f6-560527750fda\"\n});\n</script>"
+    actions: []
+    type: section_content
 template: advanced
 ---
