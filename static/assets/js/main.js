@@ -13,14 +13,14 @@ reframe(videoEmbeds.join(','));
 // textText.replace('&quot;', 'test');
 // test.innerHTML = 'test';
 
-console.log('THIS IS A TEST');
-//let hsFormBlock = document.querySelector('#test block-content');
-let hsForms = document.querySelectorAll('#test block-content > hbspt-form');
-console.log(hsForms.length)
-while (hsForms.length > 2) {
-  hsForms[-1].remove();
-  console.log('test');
-}
+// console.log('THIS IS A TEST');
+// //let hsFormBlock = document.querySelector('#test block-content');
+// let hsForms = document.querySelectorAll('#test block-content > hbspt-form');
+// console.log(hsForms.length)
+// while (hsForms.length > 1) {
+//   hsForms[-1].remove();
+//   console.log('test');
+// }
 
 // Fix "undefined" in message box
 if (document.body.contains(document.querySelector('#contact-form textarea'))) {
