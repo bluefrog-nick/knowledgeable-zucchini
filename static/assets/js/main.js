@@ -8,6 +8,12 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
+let test = querySelector('#test script');
+testText = test.innerHTML;
+textText.replace('&quot;', '"');
+test.innerHTML = testText;
+
+
 // Fix "undefined" in message box
 if (document.body.contains(document.querySelector('#contact-form textarea'))) {
   document.querySelector('#contact-form textarea').innerHTML = ''
