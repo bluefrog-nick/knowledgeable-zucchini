@@ -32,7 +32,7 @@ sections:
     actions: []
     type: section_content
   - title: Test
-    section_id: lorem-ipsum
+    section_id: ''
     image_position: left
     content: >-
       ## Lorem ipsum
