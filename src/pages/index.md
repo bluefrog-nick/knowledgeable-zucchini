@@ -131,7 +131,7 @@ sections:
         type: grid_item
       - title: Quality of Earnings
         title_url: ''
-        content: "*Am I buying a lemon?*\n<br>\n- Everyone determines TTM EBITDA. You're buying next year's EBITDA. We show you that.\_\_\n- 10+ years of navigating the ways sellers can manipulate financials\n\n<br>\n\n<div class=\"block-buttons\"><a class=\"button\" style=\"margin: 0 auto\" href=\"https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/\">Request More Info</a></div>\n<br>\n\n<em>\"I thought I had my ideal acquisition. But Guardian found that the seller was propping up sales and EBITDA with tricks in inventory and accounts receivable. I walked away and saved 1/2 of my net worth!\"</em>\n<br>\n<strong>— Mark D.</strong>"
+        content: "*Am I buying a lemon?*\n<br>\n- Everyone determines TTM EBITDA. You're buying next year's EBITDA. We show you that.\_\_\n- 10+ years of navigating the ways sellers can manipulate financials\n\n<br>\n<br>\n\n<div class=\"block-buttons\"><a class=\"button\" style=\"margin: 0 auto\" href=\"https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/\">Request More Info</a></div>\n<br>\n\n<em>\"I thought I had my ideal acquisition. But Guardian found that the seller was propping up sales and EBITDA with tricks in inventory and accounts receivable. I walked away and saved 1/2 of my net worth!\"</em>\n<br>\n<strong>— Mark D.</strong>"
         actions: []
         type: grid_item
     type: section_grid
