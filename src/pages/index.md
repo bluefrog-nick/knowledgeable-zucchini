@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     col_number: three
     grid_items:
-      - title: Deal Sourcing
+      - title: Basic Deal Review
         title_url: ''
         content: >-
           *Boost your deal flow today!*
