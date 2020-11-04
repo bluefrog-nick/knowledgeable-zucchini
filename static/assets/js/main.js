@@ -8,10 +8,10 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
-let test = document.querySelector('#test script');
-testText = test.innerHTML;
-textText.replace('&quot;', 'test');
-test.innerHTML = 'test';
+// let test = document.querySelector('#test script');
+// testText = test.innerHTML;
+// textText.replace('&quot;', 'test');
+// test.innerHTML = 'test';
 
 
 // Fix "undefined" in message box
