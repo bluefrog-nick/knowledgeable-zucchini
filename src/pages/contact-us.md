@@ -31,7 +31,7 @@ sections:
       <strong>Phone Number</strong>: 404-441-2637  
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Test
     section_id: lorem-ipsum
     image_position: left
     content: >-
