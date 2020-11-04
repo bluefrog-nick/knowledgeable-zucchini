@@ -45,15 +45,7 @@ sections:
   - title: ''
     section_id: unbeatable-value
     image_position: left
-    content: |-
-      <h3>Unbeatable Value</h3>
-      <ul class="benefits-list">
-      <li>Reduce purchase price based on adjustments to EBITDA</li>
-      <li>Find issues in diligence that others may miss</li>
-      <li>Minimize blown deal fees and wasted time</li>
-      <li>Capital relationships, if needed</li>
-      <li>Experts who will ensure you remain on the right track</li>
-      </ul>
+    content: "<h3>Unbeatable Value</h3>\n<ul class=\"benefits-list\">\n<li>Over $200k in value for only $15k - amazing return on investment (ROI)</li>\n<li>$80k+ in reduction of purchase price on average\_</li>\n<li>$150k+ saved when we found a deal breaker the client missed saving them the personal guarantee</li>\n<li>$15k+ saved on deals we found were bad within a week of engagement saving 45 days of time client would have pursued\_</li>\n</ul>"
     actions: []
     type: section_content
   - title: Acquisition Process Services We Provide
