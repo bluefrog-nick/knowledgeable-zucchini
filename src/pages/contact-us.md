@@ -34,7 +34,12 @@ sections:
   - title: Test
     section_id: test
     image_position: left
-    content: "<script\\ charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/shell.js\"></script>\n<script\\>\n\t\thbspt.forms.create({\n\t\tportalId: \"5967464\",\n\t\tformId: \"b1bf880d-a0bb-4312-8fa0-02026272c864\"\n});\n</script>\n"
+    content: >
+      <script charset="utf-8" type="text/javascript"
+      src="//js.hsforms.net/forms/shell.js"></script>
+
+      <script>hbspt.forms.create({ \n portalId: "5967464", \n formId:
+      "b1bf880d-a0bb-4312-8fa0-02026272c864" });</script>
     actions: []
     type: section_content
 template: advanced
