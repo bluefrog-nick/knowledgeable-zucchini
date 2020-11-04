@@ -6,12 +6,143 @@ li {
     margin-bottom: 0;
 }
 
-#expertise-you-can-trust,
-#unbeatable-value {
-    width: 30%;
-    display: inline-block;
+@media only screen and (min-width: 900px) {
+    /*
+    For home page double column section
+    */
+    #expertise-you-can-trust,
+    #unbeatable-value {
+        width: 30%;
+        display: inline-block;
+        padding-top: 0;
+    }
+
+    #expertise-you-can-trust {
+        margin-left: 15%;
+    }
+
+    /*
+    For contact us split section
+    */
+
+    #seamlessly-manage,
+    #contact-form {
+        display: inline-block;
+    }
+    
+    #seamlessly-manage {
+        width: 25%;
+    }
+    
+    #contact-form {
+        width: 30%;
+        margin-left: 20%;
+    }
+
+    /*
+    Other
+    */
+    
 }
 
-#expertise-you-can-trust {
-    margin-left: 20%;
+@media only screen and (max-width: 900px) {
+    #expertise-you-can-trust,
+    #unbeatable-value {
+        padding-top: 0;
+    }
+
+    .block-hero+.block {
+        padding-top: 1em;
+    }
+}
+
+#expertise-you-can-trust h3,
+#unbeatable-value h3 {
+    font-size: 1.5rem;
+}
+
+#seamlessly-manage *,
+#contact-form * {
+    text-align: left;
+}
+
+#providing-more p:not(:last-child) {
+    margin-bottom: 0;
+}
+
+.benefits-list {
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+.block-hero+.block {
+    margin-top: 0 !important;
+}
+
+/*
+For the hero
+*/
+
+.block-hero .block-header {
+    margin: 0;
+}
+
+.block-hero .block-buttons {
+    display: none;
+}
+
+.block-hero {
+    padding-top: 7em !important;
+    padding-bottom: 7em !important;
+}
+
+/*
+#hero-main .bg-img {
+    opacity: 1 !important;
+}
+*/
+
+.inner-sm {
+    max-width: 1200px !important;
+}
+
+/*
+For the top header
+*/
+
+.top-header {
+    background-color: #071749;
+    text-align: right;
+}
+
+.top-header > .inner {
+    color: #f7f9fb;
+    margin: none;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-header a {
+    text-decoration: none;
+    border-bottom: none;
+    color: #f7f9fb;
+}
+
+.top-header a:hover {
+    color: #dee5ef;
+}
+
+@media only screen and (max-width: 900px) {
+    .top-header > .inner {
+        margin-right: 1em;
+    }
+}
+
+/*
+For site logo
+*/
+
+.site-logo img {
+    max-height: 72px !important;
 }
