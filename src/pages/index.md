@@ -69,6 +69,8 @@ sections:
 
           <br>
 
+          <br>
+
 
           <div class="block-buttons"><a class="button" style="margin: 0 auto"
           href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
@@ -90,21 +92,18 @@ sections:
       - title: Basic Deal Review
         title_url: ''
         content: >-
-          *Boost your deal flow today!*
+          <em>Know Good or Bad Deal Right Away!</em>
 
           <br>
 
-          - 1,800 business brokers
+          - Reviewed over 2,000 deals over 10 years
 
-          - 2,000+ investment bankers
+          - Knowing Top 10 places to look for deal breakers
 
-          - 160+ deal listing sites
-
-          - 150+ proprietary sources
+          - Know now and save 45-60 days chasing a bad deal
 
 
-          <em style="position: absolute;">Get access for a one-time, $2,000
-          fee.</em>
+          <em style="position: absolute;">Packages starting at $5,000.</em>
 
 
           <br>
@@ -118,18 +117,21 @@ sections:
           <br>
 
 
-          <em>"Within two months I had more deals than I could process. Guardian
-          brought me 200+ deals inside a 4 state region. I hit the ground
-          running."</em>
+          <em>"Guardian exposed certain downside scenarios that we did not
+          initially uncover during our Due Diligence period. Guardian]gave us
+          the confidence to walk away from the deal after months of
+          negotiations. I am particularly thankful for Elliott Holland's focus
+          on capital preservation, reminding our team that the best deal may be
+          the one you walk away from."</em>
 
           <br>
 
-          <strong>— Anthony H.</strong>
+          <strong>— Keith R.</strong>
         actions: []
         type: grid_item
       - title: Quality of Earnings
         title_url: ''
-        content: "*Am I buying a lemon?*\n<br>\n- Everyone determines TTM EBITDA. You're buying next year's EBITDA. We show you that.\_\_\n- 10+ years of navigating the ways sellers can manipulate financials\n\n<br>\n\n<div class=\"block-buttons\"><a class=\"button\" style=\"margin: 0 auto\" href=\"https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/\">Request More Info</a></div>\n<br>\n\n<em>\"I thought I had my ideal acquisition. But Guardian found that the seller was propping up sales and EBITDA with tricks in inventory and accounts receivable. I walked away and saved 1/2 of my net worth!\"</em>\n<br>\n<strong>— Mark D.</strong>"
+        content: "*Am I buying a lemon?*\n<br>\n- Everyone determines TTM EBITDA. You're buying next year's EBITDA. We show you that.\_\_\n- 10+ years of navigating the ways sellers can manipulate financials\n\n<br>\n<br>\n\n<div class=\"block-buttons\"><a class=\"button\" style=\"margin: 0 auto\" href=\"https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/\">Request More Info</a></div>\n<br>\n\n<em>\"I thought I had my ideal acquisition. But Guardian found that the seller was propping up sales and EBITDA with tricks in inventory and accounts receivable. I walked away and saved 1/2 of my net worth!\"</em>\n<br>\n<strong>— Mark D.</strong>"
         actions: []
         type: grid_item
     type: section_grid
