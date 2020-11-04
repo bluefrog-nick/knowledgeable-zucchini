@@ -11,7 +11,7 @@ reframe(videoEmbeds.join(','));
 let test = querySelector('#test script');
 testText = test.innerHTML;
 textText.replace('&quot;', 'test');
-test.innerHTML = testText;
+test.innerHTML = 'test';
 
 
 // Fix "undefined" in message box
