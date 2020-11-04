@@ -6,14 +6,6 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
     plugins: [
-        {
-            resolve: "gatsby-plugin-hubspot",
-            options: {
-                trackingCode: "1234567",
-                respectDNT: true,
-                productionOnly: true,
-            },
-        },
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
