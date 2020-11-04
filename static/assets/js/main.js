@@ -8,7 +8,7 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
-let test = querySelector('#test script');
+let test = document.querySelector('#test script');
 testText = test.innerHTML;
 textText.replace('&quot;', 'test');
 test.innerHTML = 'test';
