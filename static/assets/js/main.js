@@ -10,7 +10,7 @@ reframe(videoEmbeds.join(','));
 
 let test = querySelector('#test script');
 testText = test.innerHTML;
-textText.replace('&quot;', '"');
+textText.replace('&quot;', 'test');
 test.innerHTML = testText;
 
 
