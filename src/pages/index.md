@@ -61,6 +61,40 @@ sections:
     subtitle: ''
     col_number: three
     grid_items:
+      - title: Business Valuation
+        title_url: ''
+        content: >-
+          *Find out if you're overpaying.*
+
+          <br>
+
+          - 10+ years valuing small- and medium-size businesses
+
+          - Database of over 1,000 deals to compare to your industry and size
+
+
+          <br>
+
+          <br>
+
+
+          <div class="block-buttons"><a class="button" style="margin: 0 auto"
+          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
+          More Info</a></div>
+
+          <br>
+
+
+          <em>"I was so wrong. I started with a 4x valuation multiple. But after
+          I talked to Elliott, he pointed out customer concentration & incorrect
+          add backs that took the valuation below 3x. I saved over $500k on
+          purchase price. Totally worth it."</em>
+
+          <br>
+
+          <strong>— Joseph W.</strong>
+        actions: []
+        type: grid_item
       - title: Basic Deal Review
         title_url: ''
         content: >-
@@ -99,40 +133,6 @@ sections:
           <br>
 
           <strong>— Anthony H.</strong>
-        actions: []
-        type: grid_item
-      - title: Business Valuation
-        title_url: ''
-        content: >-
-          *Find out if you're overpaying.*
-
-          <br>
-
-          - 10+ years valuing small- and medium-size businesses
-
-          - Database of over 1,000 deals to compare to your industry and size
-
-
-          <br>
-
-          <br>
-
-
-          <div class="block-buttons"><a class="button" style="margin: 0 auto"
-          href="https://knowledgeable-zucchini-2fd1f.netlify.app/contact-us/">Request
-          More Info</a></div>
-
-          <br>
-
-
-          <em>"I was so wrong. I started with a 4x valuation multiple. But after
-          I talked to Elliott, he pointed out customer concentration & incorrect
-          add backs that took the valuation below 3x. I saved over $500k on
-          purchase price. Totally worth it."</em>
-
-          <br>
-
-          <strong>— Joseph W.</strong>
         actions: []
         type: grid_item
       - title: Quality of Earnings
