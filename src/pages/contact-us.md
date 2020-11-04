@@ -31,5 +31,19 @@ sections:
       <strong>Phone Number</strong>: 404-441-2637  
     actions: []
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_position: left
+    content: >-
+      ## Lorem ipsum
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 template: advanced
 ---
