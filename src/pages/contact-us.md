@@ -34,7 +34,7 @@ sections:
   - title: Test
     section_id: ''
     image_position: left
-    content: "<script charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/shell.js\"></script>\n<script>\n  hbspt.forms.create({\n\tportalId: \"5967464\",\n\tformId: \"b1bf880d-a0bb-4312-8fa0-02026272c864\"\n});\n</script>"
+    content: "<Helmet>\n\t<script charset=\"utf-8\" type=\"text/javascript\" src=\"//js.hsforms.net/forms/shell.js\"></script>\n\t<script>\n\t\thbspt.forms.create({\n\t\tportalId: \"5967464\",\n\t\tformId: \"b1bf880d-a0bb-4312-8fa0-02026272c864\"\n\t});\n\t</script>\n<Helmet>"
     actions: []
     type: section_content
 template: advanced
