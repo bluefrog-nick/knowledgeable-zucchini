@@ -13,6 +13,11 @@ reframe(videoEmbeds.join(','));
 // textText.replace('&quot;', 'test');
 // test.innerHTML = 'test';
 
+let hsFormBlock = document.querySelector('#test block-content');
+let hsForms = document.querySelectorAll('#test block-content > hbspt-form');
+while (hsForms.length > 1) {
+  hsForms[-1].remove();
+}
 
 // Fix "undefined" in message box
 if (document.body.contains(document.querySelector('#contact-form textarea'))) {
