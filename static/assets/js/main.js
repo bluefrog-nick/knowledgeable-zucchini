@@ -13,10 +13,11 @@ reframe(videoEmbeds.join(','));
 // textText.replace('&quot;', 'test');
 // test.innerHTML = 'test';
 
-console.log("THIS IS A TEST");
+console.log('THIS IS A TEST');
 //let hsFormBlock = document.querySelector('#test block-content');
 let hsForms = document.querySelectorAll('#test block-content > hbspt-form');
-while (hsForms.length > 1) {
+console.log(hsForms.length)
+while (hsForms.length > 2) {
   hsForms[-1].remove();
   console.log('test');
 }
