@@ -1,6 +1,6 @@
 {
-    "title": "Stackbit Libris Theme",
-    "description": "A documentation theme",
+    "title": "Guardian Due Dilligence",
+    "description": "At Guardian Due Diligence, we’re dedicated to providing cost-effective, institutional-level quality buyside advisory and due diligence work with a focus on integrity.",
     "palette": "blue",
     "palettes": {
         "blue": {
@@ -34,8 +34,8 @@
     },
     "header": {
         "type": "header",
-        "title": "Libris",
-        "logo_img": "images/logo.svg",
+        "title": "Guardian Due Diligence",
+        "logo_img": "/images/guardian-due-diligence-navy-logo.png",
         "has_nav": true,
         "nav_links": [
             {
@@ -46,92 +46,37 @@
                 "has_subnav": false
             },
             {
-                "type": "action_menu",
-                "label": "Docs",
-                "url": "/docs",
+                "label": "Our Approach",
+                "url": "/our-approach",
                 "style": "link",
-                "has_subnav": false
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "has_subnav": false,
+                "subnav_links": [],
+                "type": "action_menu"
             },
             {
                 "type": "action_menu",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Contact Us",
+                "url": "/contact-us",
                 "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "type": "action",
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "type": "action_menu",
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": ""
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit-Libris. All rights reserved.",
-        "links": [
-            {
-                "type": "action",
-                "label": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "content": "&copy; Guardian Due Diligence. All rights reserved. ",
+        "links": [],
         "has_social": true,
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/company/guardian-due-diligence/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "fa-github",
                 "new_window": true
             }
         ]
