@@ -8,25 +8,6 @@ let videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
-// let test = document.querySelector('#test script');
-// testText = test.innerHTML;
-// textText.replace('&quot;', 'test');
-// test.innerHTML = 'test';
-
-// console.log('THIS IS A TEST');
-// //let hsFormBlock = document.querySelector('#test block-content');
-// let hsForms = document.querySelectorAll('#test block-content > hbspt-form');
-// console.log(hsForms.length)
-// while (hsForms.length > 1) {
-//   hsForms[-1].remove();
-//   console.log('test');
-// }
-
-// Fix "undefined" in message box
-if (document.body.contains(document.querySelector('#contact-form textarea'))) {
-  document.querySelector('#contact-form textarea').innerHTML = ''
-}
-
 // Handle main navigation menu toggling on small screens
 function menuToggleHandler(e) {
   e.preventDefault();
