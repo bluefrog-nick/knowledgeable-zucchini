@@ -19,17 +19,27 @@ sections:
   - title: ''
     section_id: seamlessly-manage
     image_position: left
-    content: |-
+    content: >-
       <h2 style="font-size: 18px">Business Address:</h2>
+
       Atlanta Office<br>
+
       1040 Huff Road Suite 3217<br>
+
       Atlanta, GA 30318<br>
+
       <br>
+
       New York City Office<br>
+
       205 E 42nd Street, 16th Floor<br>
+
       New York, New York 10017<br>
+
       <br>
-      <strong>Phone Number</strong>: 404-441-2637  
+
+      <strong>Phone Number</strong>: <a
+      href="tel:404-441-2637">404-441-2637</a>  
     actions: []
     type: section_content
 template: advanced
