@@ -10,6 +10,12 @@ sections:
     image: /images/guardian-dd-contact-us-hero.jpg
     content: ''
     actions: []
+  - title: Better than CPAs- get your quote today
+    section_id: contact-form
+    image_position: left
+    content: "<script>\n  hbspt.forms.create({\n\tportalId: '5967464',\n\tformId: 'b1bf880d-a0bb-4312-8fa0-02026272c864'\n});\n</script>"
+    actions: []
+    type: section_content
   - title: ''
     section_id: seamlessly-manage
     image_position: left
@@ -24,12 +30,6 @@ sections:
       New York, New York 10017<br>
       <br>
       <strong>Phone Number</strong>: 404-441-2637  
-    actions: []
-    type: section_content
-  - title: Better than CPAs- get your quote today
-    section_id: contact-form
-    image_position: left
-    content: "<script>\n  hbspt.forms.create({\n\tportalId: '5967464',\n\tformId: 'b1bf880d-a0bb-4312-8fa0-02026272c864'\n});\n</script>"
     actions: []
     type: section_content
   - type: section_content
