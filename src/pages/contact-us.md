@@ -13,7 +13,7 @@ sections:
   - title: Better than CPAs- get your quote today
     section_id: contact-form
     image_position: left
-    content: "<script defer=\"false\">\n  hbspt.forms.create({\n\t\tportalId: '5967464',\n\t\tformId: 'b1bf880d-a0bb-4312-8fa0-02026272c864'\n});\n</script>"
+    content: "<script>\n  hbspt.forms.create({\n\t\tportalId: '5967464',\n\t\tformId: 'b1bf880d-a0bb-4312-8fa0-02026272c864'\n});\n</script>"
     actions: []
     type: section_content
   - title: ''
