@@ -1,11 +1,13 @@
 import React from "react"
 import PropTypes from "prop-types"
+import favicon from "./favicon.ico"
 
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
+        <link rel="shortcut icon" type="image/png" href={favicon} />
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
