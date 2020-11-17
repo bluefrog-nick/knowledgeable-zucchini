@@ -102,7 +102,7 @@ sections:
           - Know now and save 45-60 days chasing a bad deal
 
 
-          <em style="position: absolute;">Packages starting at $5,000.</em>
+          <em>Packages starting at $5,000.</em>
 
 
           <br>
