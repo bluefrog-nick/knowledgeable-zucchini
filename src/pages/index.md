@@ -70,7 +70,8 @@ sections:
           <br>
 
 
-          <em style="position: absolute;">Packages starting at $1,000.</em>
+          <em <!--style="position: absolute;"-->>Packages starting at
+          $1,000.</em>
 
 
 
