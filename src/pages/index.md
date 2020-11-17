@@ -67,8 +67,6 @@ sections:
 
           <br>
 
-          <br>
-
 
           <em>Packages starting at $1,000.</em>
 
