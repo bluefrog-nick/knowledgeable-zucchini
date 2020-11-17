@@ -65,10 +65,11 @@ sections:
           - Database of over 1,000 deals to compare to your industry and size
 
 
+          <br>
+
+
           <em>Packages starting at $1,000.</em>
 
-
-          <br>
 
           <br>
 
