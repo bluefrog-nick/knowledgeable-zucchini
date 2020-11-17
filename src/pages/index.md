@@ -65,6 +65,10 @@ sections:
           - Database of over 1,000 deals to compare to your industry and size
 
 
+          <em style="position: absolute;">Packages starting at $5,000.</em>
+
+
+
           <br>
 
           <br>
