@@ -22,5 +22,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/4.jpg
 template: advanced
 ---
