@@ -86,14 +86,6 @@
                 "icon_class": "fa-twitter",
                 "new_window": false,
                 "type": "action"
-            },
-            {
-                "label": "Facebook",
-                "url": "lorem-ipsum",
-                "style": "icon",
-                "icon_class": "fa-facebook",
-                "new_window": false,
-                "type": "action"
             }
         ]
     }
