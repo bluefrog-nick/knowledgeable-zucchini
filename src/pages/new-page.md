@@ -14,7 +14,7 @@ sections:
         type: action
     type: section_hero
     image: /images/1.jpg
-  - title: lorem-ipsum
+  - title: Updated Content
     section_id: lorem-ipsum
     image_position: right
     content: >-
