@@ -15,7 +15,13 @@ sections:
       ##  Heading Two
 
       This is our content.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     image: /images/4.jpg
 template: advanced
