@@ -10,7 +10,7 @@ sections:
     image: /images/1.jpg
   - title: Content Section Title
     section_id: lorem-ipsum
-    image_position: left
+    image_position: right
     content: >-
       ## Lorem ipsum
 
