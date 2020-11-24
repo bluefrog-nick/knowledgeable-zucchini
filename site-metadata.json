@@ -82,7 +82,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "fa-facebook",
                 "new_window": false,
                 "type": "action"
