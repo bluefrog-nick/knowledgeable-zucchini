@@ -8,9 +8,7 @@ sections:
     title: Our Approach to Due Diligence
     section_id: hero
     image: /images/guardian-dd-our-approach-hero.jpg
-    content: |2-
-          
-        
+    content: /m
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
