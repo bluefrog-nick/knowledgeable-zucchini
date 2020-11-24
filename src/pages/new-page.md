@@ -16,7 +16,7 @@ sections:
 
       This is our content.
     actions:
-      - label: lorem-ipsum
+      - label: Click here
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
