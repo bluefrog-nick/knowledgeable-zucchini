@@ -24,5 +24,10 @@ sections:
         type: action
     type: section_content
     image: /images/4.jpg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 template: advanced
 ---
