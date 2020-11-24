@@ -7,5 +7,6 @@ sections:
     content: ''
     actions: []
     type: section_hero
+    image: /images/1.jpg
 template: advanced
 ---
