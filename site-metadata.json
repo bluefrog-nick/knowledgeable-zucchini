@@ -84,7 +84,7 @@
                 "url": "lorem-ipsum",
                 "style": "icon",
                 "icon_class": "fa-facebook",
-                "new_window": true,
+                "new_window": false,
                 "type": "action"
             }
         ]
