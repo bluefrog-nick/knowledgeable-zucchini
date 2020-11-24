@@ -2,7 +2,7 @@
 title: New Page
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: New Page
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
