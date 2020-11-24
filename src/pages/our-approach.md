@@ -9,13 +9,7 @@ sections:
     section_id: hero
     image: /images/guardian-dd-our-approach-hero.jpg
     content: <p></p>
-    actions:
-      - label: Click Here
-        url: lorem-ipsum
-        style: primary
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
+    actions: []
   - type: section_content
     title: Providing More Than a Quality of Earnings (QoE)
     section_id: providing-more
