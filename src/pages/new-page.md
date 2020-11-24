@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: New Page
 excerpt: lorem-ipsum
 sections: []
 template: advanced
