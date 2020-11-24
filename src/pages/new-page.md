@@ -5,13 +5,7 @@ sections:
   - title: New Page
     section_id: lorem-ipsum
     content: ''
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
+    actions: []
     type: section_hero
     image: /images/1.jpg
   - title: Updated Content
