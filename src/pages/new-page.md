@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Click here
         url: lorem-ipsum
-        style: secondary
+        style: primary
         icon_class: lorem-ipsum
         new_window: false
         type: action
