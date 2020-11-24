@@ -83,7 +83,7 @@
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "icon",
-                "icon_class": "fa-",
+                "icon_class": "fa-reddit",
                 "new_window": false,
                 "type": "action"
             }
