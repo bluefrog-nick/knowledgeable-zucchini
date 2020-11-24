@@ -8,7 +8,7 @@ sections:
     title: Our Approach to Due Diligence
     section_id: hero
     image: /images/guardian-dd-our-approach-hero.jpg
-    content: <p></p>
+    content: ''
     actions: []
   - type: section_content
     title: Providing More Than a Quality of Earnings (QoE)
