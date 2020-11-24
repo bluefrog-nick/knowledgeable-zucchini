@@ -23,9 +23,8 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
 
-      - Lorem ipsum
 
-      - dolor sit amet
+      This is the content.
     actions: []
     type: section_content
     image: /images/4.jpg
