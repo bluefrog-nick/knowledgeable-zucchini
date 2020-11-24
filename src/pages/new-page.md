@@ -28,7 +28,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: icon
+        style: primary
         icon_class: fa-linkedin
         new_window: false
         type: action
