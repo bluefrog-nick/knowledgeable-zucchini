@@ -10,7 +10,7 @@ sections:
     image: /images/guardian-dd-our-approach-hero.jpg
     content: <p></p>
     actions:
-      - label: CLICK HERE!
+      - label: Click Here
         url: lorem-ipsum
         style: primary
         icon_class: lorem-ipsum
