@@ -30,7 +30,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: secondary
         icon_class: lorem-ipsum
         new_window: false
         type: action
