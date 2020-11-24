@@ -8,7 +8,7 @@ sections:
     actions: []
     type: section_hero
     image: /images/1.jpg
-  - title: lorem-ipsum
+  - title: Content Section Title
     section_id: lorem-ipsum
     image_position: left
     content: >-
