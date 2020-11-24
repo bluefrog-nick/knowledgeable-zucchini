@@ -11,15 +11,10 @@ sections:
   - title: Content Section Title
     section_id: lorem-ipsum
     image_position: right
-    content: >-
-      ## Lorem ipsum
+    content: |-
+      ##  Heading Two
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      This is our content.
     actions: []
     type: section_content
     image: /images/4.jpg
