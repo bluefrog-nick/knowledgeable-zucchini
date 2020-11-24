@@ -87,10 +87,6 @@ For the hero
     margin: 0;
 }
 
-.block-hero .block-buttons {
-    display: none;
-}
-
 .block-hero {
     padding-top: 7em !important;
     padding-bottom: 7em !important;

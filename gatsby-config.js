@@ -10,6 +10,14 @@ module.exports = {
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
         {
+            resolve: "gatsby-plugin-hubspot",
+            options: {
+                trackingCode: "5967464",
+                respectDNT: true,
+                productionOnly: true,
+            },
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
