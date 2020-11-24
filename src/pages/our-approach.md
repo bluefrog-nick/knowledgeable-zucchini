@@ -10,7 +10,7 @@ sections:
     image: /images/guardian-dd-our-approach-hero.jpg
     content: ''
     actions:
-      - label: lorem-ipsum
+      - label: TEST
         url: lorem-ipsum
         style: primary
         icon_class: lorem-ipsum
