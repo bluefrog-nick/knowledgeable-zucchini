@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: '#'
         style: primary
         icon_class: lorem-ipsum
         new_window: false
