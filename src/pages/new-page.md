@@ -29,7 +29,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: icon
-        icon_class: lorem-ipsum
+        icon_class: fa-linkedin
         new_window: false
         type: action
     type: section_content
